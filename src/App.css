@@ -1,0 +1,77 @@
+.header{
+  background-color: #Ab2a19;
+  height: 100px;
+}
+
+.logo_box{
+  width: 176.44 px;
+  height: 59px;
+  position: relative;
+  padding-left: 30.8vw;
+  top: 34px;
+}
+
+.header_logo{
+  width: 50px;
+  vertical-align: middle;
+  padding-right: 10.5px;
+}
+
+.header_text{
+  vertical-align: middle;
+}
+
+.bin_container{
+  margin-top: 20px;
+  /* 24C */
+}
+
+.bin div{
+  position: relative;
+  background-color: #d34735;
+  height: 60px;
+  width: 500px;
+  margin-bottom: 20px;
+  left: 425px;
+  /* 24E, 25C */
+}
+
+.bin p{
+  position: relative;
+  padding-left: 88px;
+  padding-top: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.bin a{
+  width: 100px;
+  text-decoration: none;
+  color: white;
+}
+
+.binHeader{
+  height: 100px;
+  display: flex;
+}
+
+.binHeader_side1{
+  background-color: #Ab2a19;
+  position: relative;
+  width: 19vw;
+  height: 100px;
+}
+
+.binHeader_side2{
+  background-color: #d34735;
+  width: 98vw;
+  padding-left: 19px;
+  padding-top: 27px;
+}
+
+.binHeader_logo{
+  padding-top: 25px;
+  padding-left:110px;
+  width: 50px;
+
+}
